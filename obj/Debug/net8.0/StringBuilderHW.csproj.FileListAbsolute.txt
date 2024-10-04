@@ -1,0 +1,14 @@
+C:\Users\HP\Projects\StringBuilderHW\bin\Debug\net8.0\StringBuilderHW.exe
+C:\Users\HP\Projects\StringBuilderHW\bin\Debug\net8.0\StringBuilderHW.deps.json
+C:\Users\HP\Projects\StringBuilderHW\bin\Debug\net8.0\StringBuilderHW.runtimeconfig.json
+C:\Users\HP\Projects\StringBuilderHW\bin\Debug\net8.0\StringBuilderHW.dll
+C:\Users\HP\Projects\StringBuilderHW\bin\Debug\net8.0\StringBuilderHW.pdb
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\StringBuilderHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\StringBuilderHW.AssemblyInfoInputs.cache
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\StringBuilderHW.AssemblyInfo.cs
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\StringBuilderHW.csproj.CoreCompileInputs.cache
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\StringBuilderHW.dll
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\refint\StringBuilderHW.dll
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\StringBuilderHW.pdb
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\StringBuilderHW.genruntimeconfig.cache
+C:\Users\HP\Projects\StringBuilderHW\obj\Debug\net8.0\ref\StringBuilderHW.dll
